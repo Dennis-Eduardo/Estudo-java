@@ -1,1 +1,1 @@
-Projeto para um banco, para efetuat saques e depositos. 
+Projeto para um banco, para efetuar saques e depositos. 
